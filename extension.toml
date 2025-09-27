@@ -1,7 +1,7 @@
-id = "vscode-dark-modern"
-name = "VSCode Dark Modern"
-version = "0.0.7"
+id = "kestral-theme-dark"
+name = "Kestral Theme"
+version = "0.0.1"
 schema_version = 1
-authors = ["kcamcam <kevincamellini@gmail.com>"]
-description = "VSCode Dark Modern Theme for Zed"
-repository = "https://github.com/kcamcam/vscode_dark_modern.zed"
+authors = ["EvickaStudio <me@evicka.de>"]
+description = "Kestral Theme for Zed"
+repository = "https://github.com/EvickaStudio/kestral-theme.zed"
