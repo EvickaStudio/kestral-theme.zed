@@ -1,7 +1,7 @@
 id = "kestral-theme-dark"
 name = "Kestral Theme"
-version = "0.0.1"
+version = "0.0.4"
 schema_version = 1
 authors = ["EvickaStudio <me@evicka.de>"]
-description = "Kestral Theme for Zed"
+description = "Kestral Dark and Light themes with salmon-pink accents and lavender highlights"
 repository = "https://github.com/EvickaStudio/kestral-theme.zed"
